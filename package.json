@@ -1,0 +1,11 @@
+{
+    "name": "com.echo.eframework",   		
+    "displayName": "echo framework",     		
+    "version": "0.0.1",                		
+    "unity": "2021.3",                 		
+    "unityRelease": "0f1",					
+    "description": "This is framework", 
+    "keywords": ["Test","Package"],         
+    "author": "Echo",                     
+    "dependencies":[]   
+}
